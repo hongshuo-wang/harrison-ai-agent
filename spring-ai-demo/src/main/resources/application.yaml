@@ -1,0 +1,10 @@
+spring:
+  ai:
+    openai:
+      base-url: https://api.codexzh.com
+      api-key: sk-kLG8tmt25clr1eBO9205ZRke6IIpeuZdrxReOgbHNZAi7DJd
+      chat:
+        options:
+          model: gpt-5.4
+server:
+  port: 8888
